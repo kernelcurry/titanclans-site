@@ -1,6 +1,6 @@
 // function: Load member data
 function load_members() {
-  return ajax('https://kernelcurry.com/js/tap-titans/members.json', 'GET')
+  return ajax('https://titanclans.com/js/tap-titans/members.json', 'GET')
     .then(function(result) {
       return JSON.parse(result);
     });
@@ -8,7 +8,7 @@ function load_members() {
 
 // function: Load kill data
 function load_kills() {
-  return ajax('https://kernelcurry.com/js/tap-titans/kills.json', 'GET')
+  return ajax('https://titanclans.com/js/tap-titans/kills.json', 'GET')
     .then(function(result) {
       return JSON.parse(result);
     });
