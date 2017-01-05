@@ -46,7 +46,7 @@
         "value": 41570
       },
       {
-        "username": "Litlepig",
+        "username": "Littlepig",
         "value": 168756
       },
       {
@@ -314,7 +314,7 @@
         "value": 130020
       },
       {
-        "username": "Litlepig",
+        "username": "Littlepig",
         "value": 62504
       },
       {
@@ -408,7 +408,7 @@
         "value": 35752
       },
       {
-        "username": "Litlepig",
+        "username": "Littlepig",
         "value": 126336
       },
       {
@@ -498,7 +498,7 @@
         "value": 320912
       },
       {
-        "username": "Litlepig",
+        "username": "Littlepig",
         "value": 66802
       },
       {
@@ -530,7 +530,7 @@
         "value": 67700
       },
       {
-        "username": "??K2",
+        "username": "한국K2",
         "value": 67120
       },
       {
@@ -566,7 +566,7 @@
         "value": 51780
       },
       {
-        "username": "killer(2)",
+        "username": "-",
         "value": 43890
       },
       {
@@ -576,5 +576,143 @@
     ],
     "date": "2017-01-02",
     "level": 10
-  }
+  },
+  {
+  "damage": [
+    {
+      "username": "Akhadash",
+      "value": 783768
+    },
+    {
+      "username": "Astros",
+      "value": 141336
+    },
+    {
+      "username": "Chris",
+      "value": 367213
+    },
+    {
+      "username": "J393",
+      "value": 986460
+    },
+    {
+      "username": "KernelCurry",
+      "value": 1596273
+    },
+    {
+      "username": "MIR",
+      "value": 448908
+    },
+    {
+      "username": "Sterban",
+      "value": 157722
+    },
+    {
+      "username": "Sword Master",
+      "value": 115899
+    },
+    {
+      "username": "Zero",
+      "value": 860664
+    },
+    {
+      "username": "RynoRanger",
+      "value": 192279
+    },
+    {
+      "username": "bro",
+      "value": 251310
+    },
+    {
+      "username": "ahardergame",
+      "value": 120372
+    },
+    {
+      "username": "Littlepig",
+      "value": 82100
+    },
+    {
+      "username": "eq",
+      "value": 135010
+    },
+    {
+      "username": "Otomaars",
+      "value": 247878
+    },
+    {
+      "username": "Pollux",
+      "value": 101418
+    },
+    {
+      "username": "Arkik",
+      "value": 180654
+    },
+    {
+      "username": "Francisco",
+      "value": 114651
+    },
+    {
+      "username": "diomans",
+      "value": 226330
+    },
+    {
+      "username": "Schwertmeister",
+      "value": 378126
+    },
+    {
+      "username": "Killer",
+      "value": 373200
+    },
+    {
+      "username": "gloriousdead",
+      "value": 145346
+    },
+    {
+      "username": "-",
+      "value": 49500
+    },
+    {
+      "username": "FrankTheSomebody",
+      "value": 115100
+    },
+    {
+      "username": "Dark Master",
+      "value": 56570
+    },
+    {
+      "username": "GarlicMaster",
+      "value": 239568
+    },
+    {
+      "username": "долбаеб",
+      "value": 219490
+    },
+    {
+      "username": "zaf lee",
+      "value": 150380
+    },
+    {
+      "username": "CloudM",
+      "value": 136860
+    },
+    {
+      "username": "강동원",
+      "value": 105490
+    },
+    {
+      "username": "Wholph",
+      "value": 99195
+    },
+    {
+      "username": "Lex",
+      "value": 95805
+    },
+    {
+      "username": "JustSmileMore",
+      "value": 55160
+    }
+  ],
+  "date": "2017-01-03",
+  "level": 12
+}
 ]
