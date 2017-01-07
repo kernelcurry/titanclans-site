@@ -578,141 +578,263 @@
     "level": 10
   },
   {
-  "damage": [
-    {
-      "username": "Akhadash",
-      "value": 783768
-    },
-    {
-      "username": "Astros",
-      "value": 141336
-    },
-    {
-      "username": "Chris",
-      "value": 367213
-    },
-    {
-      "username": "J393",
-      "value": 986460
-    },
-    {
-      "username": "KernelCurry",
-      "value": 1596273
-    },
-    {
-      "username": "MIR",
-      "value": 448908
-    },
-    {
-      "username": "Sterban",
-      "value": 157722
-    },
-    {
-      "username": "Sword Master",
-      "value": 115899
-    },
-    {
-      "username": "Zero",
-      "value": 860664
-    },
-    {
-      "username": "RynoRanger",
-      "value": 192279
-    },
-    {
-      "username": "bro",
-      "value": 251310
-    },
-    {
-      "username": "ahardergame",
-      "value": 120372
-    },
-    {
-      "username": "Littlepig",
-      "value": 82100
-    },
-    {
-      "username": "eq",
-      "value": 135010
-    },
-    {
-      "username": "Otomaars",
-      "value": 247878
-    },
-    {
-      "username": "Pollux",
-      "value": 101418
-    },
-    {
-      "username": "Arkik",
-      "value": 180654
-    },
-    {
-      "username": "Francisco",
-      "value": 114651
-    },
-    {
-      "username": "diomans",
-      "value": 226330
-    },
-    {
-      "username": "Schwertmeister",
-      "value": 378126
-    },
-    {
-      "username": "Killer",
-      "value": 373200
-    },
-    {
-      "username": "gloriousdead",
-      "value": 145346
-    },
-    {
-      "username": "-",
-      "value": 49500
-    },
-    {
-      "username": "FrankTheSomebody",
-      "value": 115100
-    },
-    {
-      "username": "Dark Master",
-      "value": 56570
-    },
-    {
-      "username": "GarlicMaster",
-      "value": 239568
-    },
-    {
-      "username": "долбаеб",
-      "value": 219490
-    },
-    {
-      "username": "zaf lee",
-      "value": 150380
-    },
-    {
-      "username": "CloudM",
-      "value": 136860
-    },
-    {
-      "username": "강동원",
-      "value": 105490
-    },
-    {
-      "username": "Wholph",
-      "value": 99195
-    },
-    {
-      "username": "Lex",
-      "value": 95805
-    },
-    {
-      "username": "JustSmileMore",
-      "value": 55160
-    }
-  ],
-  "date": "2017-01-03",
-  "level": 12
-}
+    "damage": [
+      {
+        "username": "Akhadash",
+        "value": 783768
+      },
+      {
+        "username": "Astros",
+        "value": 141336
+      },
+      {
+        "username": "Chris",
+        "value": 367213
+      },
+      {
+        "username": "J393",
+        "value": 986460
+      },
+      {
+        "username": "KernelCurry",
+        "value": 1596273
+      },
+      {
+        "username": "MIR",
+        "value": 448908
+      },
+      {
+        "username": "Sterban",
+        "value": 157722
+      },
+      {
+        "username": "Sword Master",
+        "value": 115899
+      },
+      {
+        "username": "Zero",
+        "value": 860664
+      },
+      {
+        "username": "RynoRanger",
+        "value": 192279
+      },
+      {
+        "username": "bro",
+        "value": 251310
+      },
+      {
+        "username": "ahardergame",
+        "value": 120372
+      },
+      {
+        "username": "Littlepig",
+        "value": 82100
+      },
+      {
+        "username": "eq",
+        "value": 135010
+      },
+      {
+        "username": "Otomaars",
+        "value": 247878
+      },
+      {
+        "username": "Pollux",
+        "value": 101418
+      },
+      {
+        "username": "Arkik",
+        "value": 180654
+      },
+      {
+        "username": "Francisco",
+        "value": 114651
+      },
+      {
+        "username": "diomans",
+        "value": 226330
+      },
+      {
+        "username": "Schwertmeister",
+        "value": 378126
+      },
+      {
+        "username": "Killer",
+        "value": 373200
+      },
+      {
+        "username": "gloriousdead",
+        "value": 145346
+      },
+      {
+        "username": "-",
+        "value": 49500
+      },
+      {
+        "username": "FrankTheSomebody",
+        "value": 115100
+      },
+      {
+        "username": "Dark Master",
+        "value": 56570
+      },
+      {
+        "username": "GarlicMaster",
+        "value": 239568
+      },
+      {
+        "username": "долбаеб",
+        "value": 219490
+      },
+      {
+        "username": "zaf lee",
+        "value": 150380
+      },
+      {
+        "username": "CloudM",
+        "value": 136860
+      },
+      {
+        "username": "강동원",
+        "value": 105490
+      },
+      {
+        "username": "Wholph",
+        "value": 99195
+      },
+      {
+        "username": "Lex",
+        "value": 95805
+      },
+      {
+        "username": "JustSmileMore",
+        "value": 55160
+      }
+    ],
+    "date": "2017-01-03",
+    "level": 12
+  },
+  {
+    "damage": [
+      {
+        "username": "Akhadash",
+        "value": 401886
+      },
+      {
+        "username": "Astros",
+        "value": 509706
+      },
+      {
+        "username": "KernelCurry",
+        "value": 569952
+      },
+      {
+        "username": "MIR",
+        "value": 186204
+      },
+      {
+        "username": "Sterban",
+        "value": 1917649
+      },
+      {
+        "username": "Zero",
+        "value": 576681
+      },
+      {
+        "username": "RynoRanger",
+        "value": 231540
+      },
+      {
+        "username": "bro",
+        "value": 199290
+      },
+      {
+        "username": "ahardergame",
+        "value": 669822
+      },
+      {
+        "username": "Littlepig",
+        "value": 398880
+      },
+      {
+        "username": "eq",
+        "value": 302756
+      },
+      {
+        "username": "Otomaars",
+        "value": 782210
+      },
+      {
+        "username": "Pollux",
+        "value": 102426
+      },
+      {
+        "username": "Arkik",
+        "value": 142060
+      },
+      {
+        "username": "Francisco",
+        "value": 132513
+      },
+      {
+        "username": "Schwertmeister",
+        "value": 372439
+      },
+      {
+        "username": "gloriousdead",
+        "value": 259272
+      },
+      {
+        "username": "FrankTheSomebody",
+        "value": 57470
+      },
+      {
+        "username": "Dark Master",
+        "value": 66740
+      },
+      {
+        "username": "GarlicMaster",
+        "value": 509997
+      },
+      {
+        "username": "долбаеб",
+        "value": 199102
+      },
+      {
+        "username": "CloudM",
+        "value": 260621
+      },
+      {
+        "username": "Wholph",
+        "value": 91905
+      },
+      {
+        "username": "JustSmileMore",
+        "value": 53549
+      },
+      {
+        "username": "Fifa",
+        "value": 577096
+      },
+      {
+        "username": "Sword kingg",
+        "value": 419430
+      },
+      {
+        "username": "拿高",
+        "value": 166950
+      },
+      {
+        "username": "SALIBA",
+        "value": 166950
+      },
+      {
+        "username": "骨折りゾンビ",
+        "value": 91024
+      }
+    ],
+    "date": "2017-01-07",
+    "level": 14
+  }
 ]
