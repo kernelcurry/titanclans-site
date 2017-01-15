@@ -1146,5 +1146,95 @@
     ],
     "date": "2017-01-12",
     "level": 17
+  },
+  {
+    "damage": [
+      {
+        "username": "Akhadash",
+        "value": 579586
+      },
+      {
+        "username": "Astros",
+        "value": 470890
+      },
+      {
+        "username": "KernelCurry",
+        "value": 1432182
+      },
+      {
+        "username": "Sterban",
+        "value": 2221355
+      },
+      {
+        "username": "Zero",
+        "value": 916566
+      },
+      {
+        "username": "ahardergame",
+        "value": 738000
+      },
+      {
+        "username": "bro",
+        "value": 216540
+      },
+      {
+        "username": "Littlepig",
+        "value": 352470
+      },
+      {
+        "username": "eq",
+        "value": 1152693
+      },
+      {
+        "username": "Otomaars",
+        "value": 810604
+      },
+      {
+        "username": "Arkik",
+        "value": 493608
+      },
+      {
+        "username": "Francisco",
+        "value": 125769
+      },
+      {
+        "username": "gloriousdead",
+        "value": 262299
+      },
+      {
+        "username": "GarlicMaster",
+        "value": 260800
+      },
+      {
+        "username": "Sword kingg",
+        "value": 208892
+      },
+      {
+        "username": "??",
+        "value": 441028
+      },
+      {
+        "username": "ABD1KRM",
+        "value": 530734
+      },
+      {
+        "username": "Wholph",
+        "value": 119664
+      },
+      {
+        "username": "ff33rx",
+        "value": 69590
+      },
+      {
+        "username": "sjidd",
+        "value": 177856
+      },
+      {
+        "username": "mattimus",
+        "value": 1478403
+      }
+    ],
+    "date": "2017-01-13",
+    "level": 18
   }
 ]
