@@ -1036,5 +1036,115 @@
     ],
     "date": "2017-01-11",
     "level": 16
+  },
+  {
+    "damage": [
+      {
+        "username": "Akhadash",
+        "value": 732145
+      },
+      {
+        "username": "Astros",
+        "value": 155443
+      },
+      {
+        "username": "KernelCurry",
+        "value": 1183362
+      },
+      {
+        "username": "Sterban",
+        "value": 1759450
+      },
+      {
+        "username": "Zero",
+        "value": 839072
+      },
+      {
+        "username": "ahardergame",
+        "value": 1234192
+      },
+      {
+        "username": "bro",
+        "value": 338160
+      },
+      {
+        "username": "Littlepig",
+        "value": 130392
+      },
+      {
+        "username": "eq",
+        "value": 845478
+      },
+      {
+        "username": "Otomaars",
+        "value": 249696
+      },
+      {
+        "username": "Pollux",
+        "value": 123980
+      },
+      {
+        "username": "Arkik",
+        "value": 178946
+      },
+      {
+        "username": "Francisco",
+        "value": 111936
+      },
+      {
+        "username": "Schwertmeister",
+        "value": 110272
+      },
+      {
+        "username": "gloriousdead",
+        "value": 247150
+      },
+      {
+        "username": "GarlicMaster",
+        "value": 207810
+      },
+      {
+        "username": "CloudM",
+        "value": 793150
+      },
+      {
+        "username": "Sword Master",
+        "value": 146420
+      },
+      {
+        "username": "??",
+        "value": 185520
+      },
+      {
+        "username": "ABD1KRM",
+        "value": 129420
+      },
+      {
+        "username": "Wholph",
+        "value": 109666
+      },
+      {
+        "username": "CALL911",
+        "value": 81272
+      },
+      {
+        "username": "RoXaS",
+        "value": 140472
+      },
+      {
+        "username": "RynoRanger",
+        "value": 135756
+      },
+      {
+        "username": "sjidd",
+        "value": 153154
+      },
+      {
+        "username": "mattimus",
+        "value": 2103504
+      }
+    ],
+    "date": "2017-01-12",
+    "level": 17
   }
 ]
