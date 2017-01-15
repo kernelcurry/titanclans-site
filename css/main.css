@@ -46,9 +46,9 @@ table tr:nth-child(-n+11) {
 table tr:nth-child(-n+1) {
 	background-color: transparent;
 }
-table tr:nth-child(n+31) {
+table tr:nth-child(n+32) {
 	background-color: rgba(128, 128, 0, 0.25);
 }
-table tr:nth-child(n+41) {
+table tr:nth-child(n+42) {
 	background-color: rgba(128, 0, 0, 0.25);
 }
