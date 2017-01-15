@@ -59,8 +59,10 @@ function calculate_rankings(members, kills) {
           var now = new Date();
           var day_diff = Math.round((now - kill_date) / (1000 * 60 * 60 * 24));
 
+
           var rolling_avg_day = 15;
           if (day_diff > rolling_avg_day) {
+            score = 0.1;
             return;
           }
 
