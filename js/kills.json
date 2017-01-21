@@ -1452,5 +1452,95 @@
     ],
     "date": "2017-01-18",
     "level": 20
+  },
+  {
+    "damage": [
+      {
+        "username": "Akhadash",
+        "value": 946605
+      },
+      {
+        "username": "Astros",
+        "value": 183657
+      },
+      {
+        "username": "KernelCurry",
+        "value": 1545364
+      },
+      {
+        "username": "Sterban",
+        "value": 3082638
+      },
+      {
+        "username": "Zero",
+        "value": 768854
+      },
+      {
+        "username": "gloriousdead",
+        "value": 150938
+      },
+      {
+        "username": "bro",
+        "value": 392910
+      },
+      {
+        "username": "eq",
+        "value": 652178
+      },
+      {
+        "username": "Otomaars",
+        "value": 1476364
+      },
+      {
+        "username": "Arkik",
+        "value": 520237
+      },
+      {
+        "username": "MIR",
+        "value": 699030
+      },
+      {
+        "username": "mattimus",
+        "value": 1188230
+      },
+      {
+        "username": "Joso",
+        "value": 575148
+      },
+      {
+        "username": "Brawanun",
+        "value": 650475
+      },
+      {
+        "username": "active12",
+        "value": 133808
+      },
+      {
+        "username": "Sword Master",
+        "value": 91020
+      },
+      {
+        "username": "Schwertmeister",
+        "value": 238626
+      },
+      {
+        "username": "TapForFun",
+        "value": 738493
+      },
+      {
+        "username": "Pollux",
+        "value": 562285
+      },
+      {
+        "username": "Rasword",
+        "value": 175120
+      },
+      {
+        "username": "Del Monte Fuego",
+        "value": 87280
+      }
+    ],
+    "date": "2017-01-19",
+    "level": 21
   }
 ]
