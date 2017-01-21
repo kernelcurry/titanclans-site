@@ -1136,7 +1136,7 @@
         "value": 135756
       },
       {
-        "username": "sjidd",
+        "username": "sjridd",
         "value": 153154
       },
       {
@@ -1226,7 +1226,7 @@
         "value": 69590
       },
       {
-        "username": "sjidd",
+        "username": "sjridd",
         "value": 177856
       },
       {
@@ -1236,5 +1236,221 @@
     ],
     "date": "2017-01-13",
     "level": 18
+  },
+  {
+    "damage": [
+      {
+        "username": "Astros",
+        "value": 782766
+      },
+      {
+        "username": "KernelCurry",
+        "value": 1883410
+      },
+      {
+        "username": "Sterban",
+        "value": 2627666
+      },
+      {
+        "username": "Zero",
+        "value": 391590
+      },
+      {
+        "username": "ahardergame",
+        "value": 336994
+      },
+      {
+        "username": "Littlepig",
+        "value": 275883
+      },
+      {
+        "username": "eq",
+        "value": 622612
+      },
+      {
+        "username": "Otomaars",
+        "value": 2232309
+      },
+      {
+        "username": "Arkik",
+        "value": 742824
+      },
+      {
+        "username": "金岡",
+        "value": 210600
+      },
+      {
+        "username": "f33rx",
+        "value": 232660
+      },
+      {
+        "username": "mattimus",
+        "value": 853800
+      },
+      {
+        "username": "Joso",
+        "value": 442060
+      },
+      {
+        "username": "Brawanun",
+        "value": 350240
+      },
+      {
+        "username": "active12",
+        "value": 214620
+      },
+      {
+        "username": "SALIBA",
+        "value": 201435
+      },
+      {
+        "username": "Majkelo0",
+        "value": 194928
+      },
+      {
+        "username": "aquality",
+        "value": 177480
+      },
+      {
+        "username": "Sword Master",
+        "value": 153306
+      },
+      {
+        "username": "Rasword",
+        "value": 143370
+      },
+      {
+        "username": "RynoRanger",
+        "value": 140362
+      },
+      {
+        "username": "Pollux",
+        "value": 133570
+      },
+      {
+        "username": "Aba nanbua",
+        "value": 85600
+      },
+      {
+        "username": "Del Monte Fuego",
+        "value": 84940
+      },
+      {
+        "username": "MarkyMarky",
+        "value": 82400
+      },
+      {
+        "username": "sword masrer",
+        "value": 79360
+      },
+    ],
+    "date": "2017-01-17",
+    "level": 19
+  },
+  {
+    "damage": [
+      {
+        "username": "Akhadash",
+        "value": 606393
+      },
+      {
+        "username": "Astros",
+        "value": 198051
+      },
+      {
+        "username": "KernelCurry",
+        "value": 2114856
+      },
+      {
+        "username": "Sterban",
+        "value": 3079485
+      },
+      {
+        "username": "Zero",
+        "value": 365426
+      },
+      {
+        "username": "ahardergame",
+        "value": 533564
+      },
+      {
+        "username": "Littlepig",
+        "value": 275403
+      },
+      {
+        "username": "eq",
+        "value": 1496130
+      },
+      {
+        "username": "Otomaars",
+        "value": 1745692
+      },
+      {
+        "username": "Arkik",
+        "value": 643823
+      },
+      {
+        "username": "金岡",
+        "value": 221580
+      },
+      {
+        "username": "MIR",
+        "value": 127119
+      },
+      {
+        "username": "GarlicMaster",
+        "value": 126590
+      },
+      {
+        "username": "mattimus",
+        "value": 561690
+      },
+      {
+        "username": "Joso",
+        "value": 637316
+      },
+      {
+        "username": "Brawanun",
+        "value": 169910
+      },
+      {
+        "username": "active12",
+        "value": 126590
+      },
+      {
+        "username": "SALIBA",
+        "value": 93219
+      },
+      {
+        "username": "aquality",
+        "value": 12840
+      },
+      {
+        "username": "Sword Master",
+        "value": 92580
+      },
+      {
+        "username": "RynoRanger",
+        "value": 150612
+      },
+      {
+        "username": "Aba nanbua",
+        "value": 457704
+      },
+      {
+        "username": "MarkyMarky",
+        "value": 80120
+      },
+      {
+        "username": "Schwertmeister",
+        "value": 120996
+      },
+      {
+        "username": "ABD1KRM",
+        "value": 146440
+      },
+    ],
+    "date": "2017-01-18",
+    "level": 20
   }
 ]
