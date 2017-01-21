@@ -14,15 +14,25 @@ function load_kills() {
     });
 }
 
+// function: Load kill data
+function load_gifts() {
+  return ajax('https://titanclans.com/js/gifts.json', 'GET')
+    .then(function(result) {
+      return JSON.parse(result);
+    });
+}
+
 function init() {
   Promise.all([
       load_members(),
-      load_kills()
+      load_kills(),
+      load_gifts()
     ])
     .then(data => {
       const members = data[0];
       const kills = data[1];
-      calculate_rankings(members, kills);
+      const gifts = data[2];
+      calculate_rankings(members, kills, gifts);
     })
     .catch(err => {
       console.log(err);
@@ -35,9 +45,7 @@ function addRow(rank, username, dkp) {
   $("div.tap-titans table.rankings tr:last").after("<tr><td class=\"rank\">" + rank + "</td><td class=\"username\">" + username + "</td><td class=\"dkp\">" + dkp.toFixed(4) + "</td></tr>");
 }
 
-function calculate_rankings(members, kills) {
-  console.log(members, kills);
-
+function calculate_rankings(members, kills, gifts) {
 
   members.forEach(function(member, m_index) {
     members[m_index].dkp = 0;
@@ -75,6 +83,20 @@ function calculate_rankings(members, kills) {
       }
 
       member.dkp = member.dkp + score;
+    });
+
+    // add gift bonus + 50 using rolling average
+    gifts.forEach(function(gift, g_index) {
+      var username_regex = new RegExp(member.username, 'i')
+      if (gift.username.match(username_regex)) {
+        var now = new Date();
+        var gift_date = Date.parse(gift.date);
+        var day_diff = Math.round((now - gift_date) / (1000 * 60 * 60 * 24));
+        var gift_score = 500 / (day_diff + 1);
+
+        console.log("Gift: +" + gift_score);
+        member.dkp = member.dkp + gift_score;
+      }
     });
 
     member.dkp = parseFloat(member.dkp.toFixed(4))
